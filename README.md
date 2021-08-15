@@ -63,6 +63,7 @@ c. A load balancer is used</p>
 </blockquote>
 <p class="has-line-data" data-line-start="56" data-line-end="57"><img src="screenshots/wordpress/Wp_setup.png" alt="Wordpress Setup"></p>
 <blockquote>
-<p class="has-line-data" data-line-start="57" data-line-end="59">My Wordpress Website<br>
-<img src="screenshots/wordpress/My_wordpress_website.png" alt="My Wordpress Website"></p>
+<p class="has-line-data" data-line-start="57" data-line-end="58">My Wordpress Website</p>
 </blockquote>
+<p class="has-line-data" data-line-start="59" data-line-end="60"><img src="screenshots/wordpress/My_wordpress_website.png" alt="My Wordpress Website"></p>
+<h1 class="code-line" data-line-start=61 data-line-end=62 ><a id="THANK_YOU_61"></a>THANK YOU</h1>
