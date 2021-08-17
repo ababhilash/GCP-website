@@ -1,5 +1,5 @@
 # GCP-website
-Setup Wordpress on GCP using Terraform and  Kubernetes manifests.
+Setup Wordpress on GCP using Terraform and Google Kubernetes Engine.
 
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Objective_Setup_Wordpress_on_GCP_using_Terraform_and_Kubernetes_manifests_0"></a>Objective: Setup Wordpress on GCP using Terraform and Kubernetes manifests.</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Description_2"></a>Description:</h2>
